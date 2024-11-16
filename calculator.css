@@ -15,8 +15,6 @@ body{
     justify-content: center;
     align-items: center;
     background:linear-gradient(45deg, #0b0b0b , rgb(88, 88, 88));
-    /* background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); */
-    /* background-image: linear-gradient(to right, red , yellow); */
 }
 .calculator{
     border: 1px solid #717377;
